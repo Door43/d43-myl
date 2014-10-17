@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myl:home|Door43 (myl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myl|d43-myl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myl/archive/master.zip|d43-myl.zip]]
+
+**Recent Changes**
+{{changes>ns = myl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myl|Ethnologue data]]
+
